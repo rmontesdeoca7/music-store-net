@@ -1,0 +1,11 @@
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\bin\Debug\net8.0\MusicStore.Dto.deps.json
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\bin\Debug\net8.0\MusicStore.Dto.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\bin\Debug\net8.0\MusicStore.Dto.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.AssemblyInfoInputs.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.AssemblyInfo.cs
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.csproj.CoreCompileInputs.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\refint\MusicStore.Dto.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\MusicStore.Dto.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Dto\obj\Debug\net8.0\ref\MusicStore.Dto.dll

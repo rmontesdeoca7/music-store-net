@@ -1,0 +1,17 @@
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.Repositories.deps.json
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.Repositories.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.Repositories.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.DataAccess.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.Entities.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.DataAccess.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\bin\Debug\net8.0\MusicStore.Entities.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.csproj.AssemblyReference.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.AssemblyInfoInputs.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.AssemblyInfo.cs
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicSto.FB421E30.Up2Date
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\refint\MusicStore.Repositories.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.pdb
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\ref\MusicStore.Repositories.dll
