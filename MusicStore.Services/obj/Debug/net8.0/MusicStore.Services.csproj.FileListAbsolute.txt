@@ -19,3 +19,4 @@ C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Services\obj\Debug\net
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Services\obj\Debug\net8.0\refint\MusicStore.Services.dll
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Services\obj\Debug\net8.0\MusicStore.Services.pdb
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Services\obj\Debug\net8.0\ref\MusicStore.Services.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Services\obj\Debug\net8.0\MusicStore.Services.sourcelink.json

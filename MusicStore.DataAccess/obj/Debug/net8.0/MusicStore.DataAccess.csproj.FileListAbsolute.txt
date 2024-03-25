@@ -15,3 +15,4 @@ C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.DataAccess\obj\Debug\n
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.DataAccess\obj\Debug\net8.0\ref\MusicStore.DataAccess.dll
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.DataAccess\bin\Debug\net8.0\MusicStore.DataAccess.runtimeconfig.json
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.DataAccess\obj\Debug\net8.0\MusicStore.DataAccess.genruntimeconfig.cache
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.DataAccess\obj\Debug\net8.0\MusicStore.DataAccess.sourcelink.json

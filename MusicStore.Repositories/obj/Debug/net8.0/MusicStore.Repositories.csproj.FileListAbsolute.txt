@@ -15,3 +15,4 @@ C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\refint\MusicStore.Repositories.dll
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.pdb
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\ref\MusicStore.Repositories.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Repositories\obj\Debug\net8.0\MusicStore.Repositories.sourcelink.json

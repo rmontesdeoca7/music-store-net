@@ -19,7 +19,8 @@ namespace MusicStore.Services.Profiles
                 .ForMember(destino => destino.Description, origen => origen.MapFrom(x => x.Description))
                 .ForMember(destino => destino.TicketsQuantity, origen => origen.MapFrom(x => x.TicketsQuantity))
                 .ForMember(destino => destino.UnitPrice, origen => origen.MapFrom(x => x.UnitPrice))
-                .ForMember(destino => destino.Place, origen => origen.MapFrom(x => x.Place));
+                .ForMember(destino => destino.Place, origen => origen.MapFrom(x => x.Place))
+                .ForMember(destino => destino.DateEvent, origen => origen.MapFrom(x => DateTime.Parse($"{x.DateEvent} {x.TimeEvent}")));
                 
         }
     }

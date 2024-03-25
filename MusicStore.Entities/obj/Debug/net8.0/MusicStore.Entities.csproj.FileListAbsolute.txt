@@ -9,3 +9,4 @@ C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Entities\obj\Debug\net
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Entities\obj\Debug\net8.0\refint\MusicStore.Entities.dll
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Entities\obj\Debug\net8.0\MusicStore.Entities.pdb
 C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Entities\obj\Debug\net8.0\ref\MusicStore.Entities.dll
+C:\Users\AMBACAR\Documents\projects\MusicStore\MusicStore.Entities\obj\Debug\net8.0\MusicStore.Entities.sourcelink.json
